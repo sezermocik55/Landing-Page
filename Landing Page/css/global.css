@@ -1,0 +1,63 @@
+/*Text*/
+
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+    font-size: 1.25rem;
+}
+.heading-medium{
+    font-size: 1.5.rem;
+}
+.heading-big{
+    font-size: 1.75rem;
+}
+
+/*Colors*/
+
+.bg-dark-blue{
+    background: #906668;
+}
+
+.color-title1{
+    color: #F2F38A;
+
+}
+.color-title2{
+    color: #F4EC31;
+
+}
+/*Buttons*/
+
+.btn{
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 7px;
+    letter-spacing: 0.75px;
+}
+.btn-primary{
+    background: #336ea2;
+}
+.btn-primary:hover{
+    color: #336ea2;
+    background: #fff;
+    border: 0.5px solid #336ea2;
+}
+.btn-dark{
+    background: #333;
+}
+.btn-dark:hover{
+    color: #333;
+    background: #fff;
+    border: 00.5px solid #333;
+}
+
+
+
+/*container*/
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
